@@ -1,0 +1,36 @@
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 7 * * *'
+name: update-deps
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: stable
+        id: go
+
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Run go-generate
+        run: |-
+          go get -u github.com/psanford/awsip
+          go get -u github.com/psanford/gcpip
+          go get -u github.com/psanford/cloudflareip
+          go mod tidy
+
+      - name: Run tests
+        run: go test -v ./...
+
+      - name: Commit and push if changed
+        run: |-
+          git config user.name "GitHub Actions"
+          git config user.email "actions@users.noreply.github.com"
+          git commit -a -m "Update ip ranges" || exit 0
+          git push

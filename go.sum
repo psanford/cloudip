@@ -1,0 +1,16 @@
+github.com/gaissmai/cidrtree v0.5.0 h1:noZ73FM38fRV5Uw28jTcKRTHX/84ylEMT87sVuFqt1Y=
+github.com/gaissmai/cidrtree v0.5.0/go.mod h1:7snMgBXDWPq7v67RtDmGqOt6i4HGEhvFBIbg9nUiQ5k=
+github.com/gaissmai/extnetip v0.4.0 h1:9pNd/Z6QSlkda35bug/IYuPYaPMTYRuqcxPce5Z9TTQ=
+github.com/gaissmai/extnetip v0.4.0/go.mod h1:M3NWlyFKaVosQXWXKKeIPK+5VM4U85DahdIqNYX4TK4=
+github.com/psanford/awsip v0.0.0-20240807072518-d538e602a002 h1:OhiuG6oC9IglQW1zuAjSFm9t1k7AMlQB6pO3GMtILF4=
+github.com/psanford/awsip v0.0.0-20240807072518-d538e602a002/go.mod h1:BpoUEpbQjm8fcYXenzOb2EahFIina+d3PprIJ0n5Sno=
+github.com/psanford/cloudflareip v0.0.0-20240809175808-424cc7008ee0 h1:f0EvET08pqcIpFSUl8fJ2u53AEIarX4MBtMbA6I9jdo=
+github.com/psanford/cloudflareip v0.0.0-20240809175808-424cc7008ee0/go.mod h1:iDcdu6kdlo1lBvC11YnNYYr24aSZjIC3/JM5JL6Krxs=
+github.com/psanford/gcpip v0.0.0-20240809072534-fddc202ee5ba h1:I2flU3YXuhQSwbnYZiFWZnmZyntE3nwBC8UYTsUo9Dc=
+github.com/psanford/gcpip v0.0.0-20240809072534-fddc202ee5ba/go.mod h1:GFYQ24+p/qNNQk+EGHsGD/HpGUEN5zovpG6sws6o+Yk=
+golang.org/x/mod v0.20.0 h1:utOm6MM3R3dnawAiJgn0y+xvuYRsm1RKM/4giyfDgV0=
+golang.org/x/mod v0.20.0/go.mod h1:hTbmBsO62+eylJbnUtE2MGJUyE7QWk4xUqPFrRgJ+7c=
+golang.org/x/sync v0.8.0 h1:3NFvSEYkUoMifnESzZl15y791HH1qU2xm6eCJU5ZPXQ=
+golang.org/x/sync v0.8.0/go.mod h1:Czt+wKu1gCyEFDUtn0jG5QVvpJ6rzVqr5aXyt9drQfk=
+golang.org/x/tools v0.24.0 h1:J1shsA93PJUEVaUSaay7UXAyE8aimq3GW0pjlolpa24=
+golang.org/x/tools v0.24.0/go.mod h1:YhNqVBIfWHdzvTLs0d8LCuMhkKUgSUKldakyV7W/WDQ=
