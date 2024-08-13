@@ -5,7 +5,7 @@ go 1.22.0
 require (
 	github.com/psanford/awsip v0.0.0-20240810072414-feb8f395b5ae
 	github.com/psanford/cloudflareip v0.0.0-20240811072658-acd6b0d934b9
-	github.com/psanford/gcpip v0.0.0-20240811073618-d416bc74b72e
+	github.com/psanford/gcpip v0.0.0-20240812145053-32f34e3e5981
 )
 
 require (
