@@ -1,7 +1,7 @@
 github.com/gaissmai/cidrtree v0.5.0 h1:noZ73FM38fRV5Uw28jTcKRTHX/84ylEMT87sVuFqt1Y=
 github.com/gaissmai/cidrtree v0.5.0/go.mod h1:7snMgBXDWPq7v67RtDmGqOt6i4HGEhvFBIbg9nUiQ5k=
-github.com/gaissmai/extnetip v0.4.0 h1:9pNd/Z6QSlkda35bug/IYuPYaPMTYRuqcxPce5Z9TTQ=
-github.com/gaissmai/extnetip v0.4.0/go.mod h1:M3NWlyFKaVosQXWXKKeIPK+5VM4U85DahdIqNYX4TK4=
+github.com/gaissmai/extnetip v1.0.0 h1:yjViWK3VmJJSjY2PRzbUd5sOuJsCMrkKQlt6TvWb5DY=
+github.com/gaissmai/extnetip v1.0.0/go.mod h1:M3NWlyFKaVosQXWXKKeIPK+5VM4U85DahdIqNYX4TK4=
 github.com/psanford/awsip v0.0.0-20240827072600-7ae825c0bb5d h1:e3siSUte9vRMK+fLYzwyrpEsyFuvW18UhVzcDe5J1ls=
 github.com/psanford/awsip v0.0.0-20240827072600-7ae825c0bb5d/go.mod h1:BpoUEpbQjm8fcYXenzOb2EahFIina+d3PprIJ0n5Sno=
 github.com/psanford/cloudflareip v0.0.0-20240811072658-acd6b0d934b9 h1:UbTwHT+bmNLyBnTDOmpxSRnHgkKwPw/8CJCx5hPxx4U=
