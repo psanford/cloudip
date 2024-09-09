@@ -6,8 +6,8 @@ github.com/psanford/awsip v0.0.0-20240907072804-6af20b9251ce h1:8VLlm4V6apHT2iX3
 github.com/psanford/awsip v0.0.0-20240907072804-6af20b9251ce/go.mod h1:BpoUEpbQjm8fcYXenzOb2EahFIina+d3PprIJ0n5Sno=
 github.com/psanford/cloudflareip v0.0.0-20240811072658-acd6b0d934b9 h1:UbTwHT+bmNLyBnTDOmpxSRnHgkKwPw/8CJCx5hPxx4U=
 github.com/psanford/cloudflareip v0.0.0-20240811072658-acd6b0d934b9/go.mod h1:iDcdu6kdlo1lBvC11YnNYYr24aSZjIC3/JM5JL6Krxs=
-github.com/psanford/gcpip v0.0.0-20240903072614-35e04b58344e h1:RuDS6EIOWYweNsfFp/ShR7SLXGrqKjUAn/pjQvIKDsc=
-github.com/psanford/gcpip v0.0.0-20240903072614-35e04b58344e/go.mod h1:GFYQ24+p/qNNQk+EGHsGD/HpGUEN5zovpG6sws6o+Yk=
+github.com/psanford/gcpip v0.0.0-20240908072436-5ab3066f608e h1:CaQImthpJzDgiVbROoUb+ln6HyLh1cFlTgoiDKGq2Eg=
+github.com/psanford/gcpip v0.0.0-20240908072436-5ab3066f608e/go.mod h1:GFYQ24+p/qNNQk+EGHsGD/HpGUEN5zovpG6sws6o+Yk=
 golang.org/x/mod v0.21.0 h1:vvrHzRwRfVKSiLrG+d4FMl/Qi4ukBCE6kZlTUkDYRT0=
 golang.org/x/mod v0.21.0/go.mod h1:6SkKJ3Xj0I0BrPOZoBy3bdMptDDU9oJrpohJ3eWZ1fY=
 golang.org/x/sync v0.8.0 h1:3NFvSEYkUoMifnESzZl15y791HH1qU2xm6eCJU5ZPXQ=
