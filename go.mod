@@ -5,7 +5,7 @@ go 1.23
 toolchain go1.23.0
 
 require (
-	github.com/psanford/awsip v0.0.0-20241106072911-b5025b8b5b11
+	github.com/psanford/awsip v0.0.0-20241108072835-e6058cbec3ad
 	github.com/psanford/cloudflareip v0.0.0-20240811072658-acd6b0d934b9
 	github.com/psanford/gcpip v0.0.0-20241027072907-9c888669e3ad
 )
@@ -15,5 +15,5 @@ require (
 	github.com/gaissmai/extnetip v1.1.0 // indirect
 	golang.org/x/mod v0.22.0 // indirect
 	golang.org/x/sync v0.9.0 // indirect
-	golang.org/x/tools v0.26.0 // indirect
+	golang.org/x/tools v0.27.0 // indirect
 )
