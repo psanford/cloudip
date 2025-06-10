@@ -34,6 +34,14 @@ func TestCloudip(t *testing.T) {
 			IP:       netip.MustParseAddr("2a05:d03a:8000::1"),
 			Provider: AWS,
 		},
+		{
+			IP:       netip.MustParseAddr("140.82.112.3"),
+			Provider: GitHub,
+		},
+		{
+			IP:       netip.MustParseAddr("2606:50c0:8000::153"),
+			Provider: GitHub,
+		},
 	}
 
 	for _, check := range checkIPs {

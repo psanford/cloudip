@@ -6,6 +6,7 @@ import (
 	"github.com/psanford/awsip"
 	"github.com/psanford/cloudflareip"
 	"github.com/psanford/gcpip"
+	"github.com/psanford/githubip"
 )
 
 func Lookup(ip netip.Addr) *IPRange {
@@ -40,6 +41,16 @@ func Lookup(ip netip.Addr) *IPRange {
 		return &ipr
 	}
 
+	if gip := githubip.Range(ip); gip != nil {
+		ipr := IPRange{
+			Provider:         GitHub,
+			Prefix:           gip.Prefix,
+			Services:         gip.Services,
+			ProviderSpecific: gip,
+		}
+		return &ipr
+	}
+
 	return nil
 }
 
@@ -49,6 +60,7 @@ const (
 	AWS        Provider = "AWS"
 	GCP        Provider = "GCP"
 	Cloudflare Provider = "CLOUDFLARE"
+	GitHub     Provider = "GITHUB"
 )
 
 type IPRange struct {

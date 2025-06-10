@@ -23,6 +23,7 @@ jobs:
           go get -u github.com/psanford/awsip
           go get -u github.com/psanford/gcpip
           go get -u github.com/psanford/cloudflareip
+          go get -u github.com/psanford/githubip
           go mod tidy
 
       - name: Run tests
