@@ -1,7 +1,7 @@
 github.com/gaissmai/cidrtree v0.5.0 h1:noZ73FM38fRV5Uw28jTcKRTHX/84ylEMT87sVuFqt1Y=
 github.com/gaissmai/cidrtree v0.5.0/go.mod h1:7snMgBXDWPq7v67RtDmGqOt6i4HGEhvFBIbg9nUiQ5k=
-github.com/gaissmai/extnetip v1.2.0 h1:n2ZLiOggvSRHXMLoNq/eWL0O/ZHmIz6t/JjQiBQ9v2w=
-github.com/gaissmai/extnetip v1.2.0/go.mod h1:aFjKgP7xZt+1Nvf47XI4sZJCldMXMixekiwgGWQrY4E=
+github.com/gaissmai/extnetip v1.2.2 h1:KFTAlxRoQ/qtLHOUQKnh7w/o+eM39qfxvx+CurcSb64=
+github.com/gaissmai/extnetip v1.2.2/go.mod h1:PepswGWH0GJ4XSdiY7bY2EaEPpCQs7OaYcySeW525fg=
 github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=
 github.com/google/go-cmp v0.6.0/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
 github.com/psanford/awsip v0.0.0-20250822073041-65eda4408ac3 h1:I4GBI9a/rHvXeTurR8Hd3DSA4DBwUvMNSJwJwWYHaR8=

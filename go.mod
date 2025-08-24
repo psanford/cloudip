@@ -1,6 +1,6 @@
 module github.com/psanford/cloudip
 
-go 1.23.0
+go 1.24
 
 toolchain go1.24.1
 
@@ -13,7 +13,7 @@ require (
 
 require (
 	github.com/gaissmai/cidrtree v0.5.0 // indirect
-	github.com/gaissmai/extnetip v1.2.0 // indirect
+	github.com/gaissmai/extnetip v1.2.2 // indirect
 	golang.org/x/mod v0.27.0 // indirect
 	golang.org/x/sync v0.16.0 // indirect
 	golang.org/x/tools v0.36.0 // indirect
