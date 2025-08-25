@@ -4,12 +4,12 @@ github.com/gaissmai/extnetip v1.2.2 h1:KFTAlxRoQ/qtLHOUQKnh7w/o+eM39qfxvx+CurcSb
 github.com/gaissmai/extnetip v1.2.2/go.mod h1:PepswGWH0GJ4XSdiY7bY2EaEPpCQs7OaYcySeW525fg=
 github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=
 github.com/google/go-cmp v0.6.0/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
-github.com/psanford/awsip v0.0.0-20250822073041-65eda4408ac3 h1:I4GBI9a/rHvXeTurR8Hd3DSA4DBwUvMNSJwJwWYHaR8=
-github.com/psanford/awsip v0.0.0-20250822073041-65eda4408ac3/go.mod h1:BpoUEpbQjm8fcYXenzOb2EahFIina+d3PprIJ0n5Sno=
+github.com/psanford/awsip v0.0.0-20250824072936-f110dde272f7 h1:sl0FjM98+SOlluGOYgL64EIQN8+2k3XbQLKKIg+LjXc=
+github.com/psanford/awsip v0.0.0-20250824072936-f110dde272f7/go.mod h1:BpoUEpbQjm8fcYXenzOb2EahFIina+d3PprIJ0n5Sno=
 github.com/psanford/cloudflareip v0.0.0-20240811072658-acd6b0d934b9 h1:UbTwHT+bmNLyBnTDOmpxSRnHgkKwPw/8CJCx5hPxx4U=
 github.com/psanford/cloudflareip v0.0.0-20240811072658-acd6b0d934b9/go.mod h1:iDcdu6kdlo1lBvC11YnNYYr24aSZjIC3/JM5JL6Krxs=
-github.com/psanford/gcpip v0.0.0-20250816072942-73e682f73e00 h1:vsGEEEdN/pvmjx+3VgleskDFhtuqcG+ZWXGTbc8LAwI=
-github.com/psanford/gcpip v0.0.0-20250816072942-73e682f73e00/go.mod h1:GFYQ24+p/qNNQk+EGHsGD/HpGUEN5zovpG6sws6o+Yk=
+github.com/psanford/gcpip v0.0.0-20250824072854-7beb7ff1d4ba h1:/XS98f8aaPbJNLuIh7Uw+QXg5TVHGkDxmK9iNknLkHI=
+github.com/psanford/gcpip v0.0.0-20250824072854-7beb7ff1d4ba/go.mod h1:GFYQ24+p/qNNQk+EGHsGD/HpGUEN5zovpG6sws6o+Yk=
 github.com/psanford/githubip v0.0.0-20250819072857-d9a12aa19b6a h1:Eu/B4jAX69O5BvSDb7KMnqzu1YwEy6vT0gRhfIC9qW0=
 github.com/psanford/githubip v0.0.0-20250819072857-d9a12aa19b6a/go.mod h1:f5udajFqycbEQC8xBl3Za2vRK7FM4YmixzWMUURG5vg=
 golang.org/x/mod v0.27.0 h1:kb+q2PyFnEADO2IEF935ehFUXlWiNjJWtRNgBLSfbxQ=
