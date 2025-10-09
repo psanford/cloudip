@@ -5,7 +5,7 @@ go 1.24.0
 toolchain go1.24.1
 
 require (
-	github.com/psanford/awsip v0.0.0-20251007072936-c5e0b88d487d
+	github.com/psanford/awsip v0.0.0-20251008072929-a9c73e31cdec
 	github.com/psanford/cloudflareip v0.0.0-20240811072658-acd6b0d934b9
 	github.com/psanford/gcpip v0.0.0-20251007072924-004d82c47d60
 	github.com/psanford/githubip v0.0.0-20250916072742-d60e1a7d8b4b
@@ -14,7 +14,7 @@ require (
 require (
 	github.com/gaissmai/cidrtree v0.5.0 // indirect
 	github.com/gaissmai/extnetip v1.3.1 // indirect
-	golang.org/x/mod v0.28.0 // indirect
+	golang.org/x/mod v0.29.0 // indirect
 	golang.org/x/sync v0.17.0 // indirect
-	golang.org/x/tools v0.37.0 // indirect
+	golang.org/x/tools v0.38.0 // indirect
 )
