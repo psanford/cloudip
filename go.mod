@@ -8,13 +8,13 @@ require (
 	github.com/psanford/awsip v0.0.0-20251206072949-9735af468a0d
 	github.com/psanford/cloudflareip v0.0.0-20240811072658-acd6b0d934b9
 	github.com/psanford/gcpip v0.0.0-20251122072848-4f1a2e1893fb
-	github.com/psanford/githubip v0.0.0-20251125073033-4b9093547ff5
+	github.com/psanford/githubip v0.0.0-20251209073250-e7adb36e0e2e
 )
 
 require (
 	github.com/gaissmai/cidrtree v0.5.0 // indirect
 	github.com/gaissmai/extnetip v1.3.1 // indirect
-	golang.org/x/mod v0.30.0 // indirect
-	golang.org/x/sync v0.18.0 // indirect
-	golang.org/x/tools v0.39.0 // indirect
+	golang.org/x/mod v0.31.0 // indirect
+	golang.org/x/sync v0.19.0 // indirect
+	golang.org/x/tools v0.40.0 // indirect
 )
