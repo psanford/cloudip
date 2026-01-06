@@ -8,7 +8,7 @@ require (
 	github.com/psanford/awsip v0.0.0-20260104073400-be828bbf61c0
 	github.com/psanford/cloudflareip v0.0.0-20240811072658-acd6b0d934b9
 	github.com/psanford/gcpip v0.0.0-20251122072848-4f1a2e1893fb
-	github.com/psanford/githubip v0.0.0-20251224073412-a12e2829c55f
+	github.com/psanford/githubip v0.0.0-20260106073646-c9f6f14abe90
 )
 
 require (
