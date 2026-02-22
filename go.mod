@@ -5,7 +5,7 @@ go 1.24.0
 toolchain go1.24.1
 
 require (
-	github.com/psanford/awsip v0.0.0-20260219075813-5ed8545b1ca9
+	github.com/psanford/awsip v0.0.0-20260221074610-fff66b2db65e
 	github.com/psanford/cloudflareip v0.0.0-20240811072658-acd6b0d934b9
 	github.com/psanford/gcpip v0.0.0-20260214074903-8582a8baf142
 	github.com/psanford/githubip v0.0.0-20260205075600-d9a1fe8ff909
