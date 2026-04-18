@@ -10,8 +10,8 @@ github.com/psanford/cloudflareip v0.0.0-20240811072658-acd6b0d934b9 h1:UbTwHT+bm
 github.com/psanford/cloudflareip v0.0.0-20240811072658-acd6b0d934b9/go.mod h1:iDcdu6kdlo1lBvC11YnNYYr24aSZjIC3/JM5JL6Krxs=
 github.com/psanford/gcpip v0.0.0-20260412080911-bed4fa5117f6 h1:uq718+BG9zpa4BXLzl0zg1mpVtJrC/3AuaZU3JBGIwo=
 github.com/psanford/gcpip v0.0.0-20260412080911-bed4fa5117f6/go.mod h1:GFYQ24+p/qNNQk+EGHsGD/HpGUEN5zovpG6sws6o+Yk=
-github.com/psanford/githubip v0.0.0-20260414085139-3ecea16924c6 h1:q+EP6E0ADmMUEfrmx1EMTuM9jrA5j+1DaGRUfnL7cHs=
-github.com/psanford/githubip v0.0.0-20260414085139-3ecea16924c6/go.mod h1:f5udajFqycbEQC8xBl3Za2vRK7FM4YmixzWMUURG5vg=
+github.com/psanford/githubip v0.0.0-20260418080451-3f40d4fd7d6b h1:SZ08M0cMusb7V/6bqdLTtr/rnqKbr/zJe3ci9mQSYjY=
+github.com/psanford/githubip v0.0.0-20260418080451-3f40d4fd7d6b/go.mod h1:f5udajFqycbEQC8xBl3Za2vRK7FM4YmixzWMUURG5vg=
 golang.org/x/mod v0.35.0 h1:Ww1D637e6Pg+Zb2KrWfHQUnH2dQRLBQyAtpr/haaJeM=
 golang.org/x/mod v0.35.0/go.mod h1:+GwiRhIInF8wPm+4AoT6L0FA1QWAad3OMdTRx4tFYlU=
 golang.org/x/sync v0.20.0 h1:e0PTpb7pjO8GAtTs2dQ6jYa5BWYlMuX047Dco/pItO4=
