@@ -3,9 +3,9 @@ module github.com/psanford/cloudip
 go 1.25.0
 
 require (
-	github.com/psanford/awsip v0.0.0-20260801092302-a7cff2d1dc4f
+	github.com/psanford/awsip v0.0.0-20260802092345-8a951a7b08cb
 	github.com/psanford/cloudflareip v0.0.0-20240811072658-acd6b0d934b9
-	github.com/psanford/gcpip v0.0.0-20260731095930-65f8d304c342
+	github.com/psanford/gcpip v0.0.0-20260802092309-2bc1171f04a0
 	github.com/psanford/githubip v0.0.0-20260801091826-a38f419ee25b
 )
 
