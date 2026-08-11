@@ -12,7 +12,7 @@ require (
 require (
 	github.com/gaissmai/cidrtree v0.5.0 // indirect
 	github.com/gaissmai/extnetip v1.3.2 // indirect
-	golang.org/x/mod v0.38.0 // indirect
+	golang.org/x/mod v0.39.0 // indirect
 	golang.org/x/sync v0.22.0 // indirect
 	golang.org/x/tools v0.48.0 // indirect
 )
