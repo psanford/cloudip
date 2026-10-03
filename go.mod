@@ -3,9 +3,9 @@ module github.com/psanford/cloudip
 go 1.26.0
 
 require (
-	github.com/psanford/awsip v0.0.0-20261001143157-5d1a231fe714
+	github.com/psanford/awsip v0.0.0-20261002135426-b8f4a5cc63b4
 	github.com/psanford/cloudflareip v0.0.0-20240811072658-acd6b0d934b9
-	github.com/psanford/gcpip v0.0.0-20260912113819-5700d2919d93
+	github.com/psanford/gcpip v0.0.0-20261002135338-9f7b29ed5684
 	github.com/psanford/githubip v0.0.0-20261001142619-f19532b67d22
 )
 
@@ -14,5 +14,5 @@ require (
 	github.com/gaissmai/extnetip v1.3.2 // indirect
 	golang.org/x/mod v0.41.0 // indirect
 	golang.org/x/sync v0.23.0 // indirect
-	golang.org/x/tools v0.50.0 // indirect
+	golang.org/x/tools v0.51.0 // indirect
 )
